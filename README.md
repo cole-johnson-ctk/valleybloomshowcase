@@ -1,3 +1,3 @@
-# Welcome to your Lovable project
+# awesome website created by me lololol
 
-TODO: Document your project here
+TODO: get a band for it
